@@ -106,12 +106,12 @@ export default function Profile({ navigation }) {
             <View style = {{flex:1}}>
               <Text style={styles.info}>
                 <Icon size={18} name="email" color={terciary} /> Email:
-                junior_monnu@outlook.com
+                jxxx@outlook.com
               </Text>
 
               <Text style={styles.info}>
                 <Icon size={18} name="smartphone" color={terciary} /> Número: +55
-                86 998480162
+                86 999999999
               </Text>
 
               <Text style={styles.info}>
