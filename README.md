@@ -1,2 +1,3 @@
 # Projeto-EbookJS
-Biblioteca de E-Books(Livros Digitais)
+App de Biblioteca de E-Books(Livros Digitais)
+Funciona tanto Ios como Android
