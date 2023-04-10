@@ -1,3 +1,3 @@
 # Projeto-EbookJS
 App de Biblioteca de E-Books(Livros Digitais)
-Funciona tanto Ios como Android
+Foi meu primeiro projeto desenvolvido na disciplina de programação comercial do meu curso Lic. Informática.
